@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://novel-1.adambright.space# Add your website address here/sitemap.xml.gz
+Sitemap: https://novel-1.adambright.space/sitemap.xml.gz
