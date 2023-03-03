@@ -1,0 +1,11 @@
+input: novel
+output: .
+url: novel-1.adambright.space# Add your website address here
+branding:
+  title: Novel-1
+  label: Novel-1
+links:
+- text: Repo
+  link: https://github.com/AdamBrianBright/novel-1
+footer:
+  copyright: "&copy; Copyright {{ year }}. All rights reserved."
