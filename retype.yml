@@ -1,5 +1,5 @@
-input: novel
-output: .
+input: ./novel/
+output: ./pages/
 url: novel-1.adambright.space# Add your website address here
 branding:
   title: Novel-1
